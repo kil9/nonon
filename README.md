@@ -1,4 +1,4 @@
 nonon
 =====
 
-project nonon (tentative name)
+project nonon
